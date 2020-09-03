@@ -63,8 +63,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Je opdracht:** https://www.netflix.com/browse 
 
 **Screenshot(s):**
-images/NetflixBrowse
+<img src="images/NetflixBrowse">
 
 **Breakdown-schets(en):**
+<img src="images/netflix_browse_week1_deel2-01.png">
+<img src="images/netflix_browse_week1-02.png">
+
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
