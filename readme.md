@@ -60,14 +60,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** surface plane
 
-**Je opdracht:** https://www.netflix.com/browse 
+**Je opdracht:** https://www.facebook.com 
 
 **Screenshot(s):**
-<img src="images/NetflixBrowse.png">
+<img src="/images/Facebook.profiel.jpg">
 
 **Breakdown-schets(en):**
-<img src="images/netflix_browse_week1_deel2-01.png">
-<img src="images/netflix_browse_week1-02.png">
+<img src="/images/Facebook.week1.breakdown-01.png">
+<img src="/images/Facebook.week1.breakdown-02.png">
 
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
