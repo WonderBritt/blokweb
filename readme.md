@@ -68,6 +68,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Breakdown-schets(en):**
 <img src="/images/Facebook.week1.breakdown-01.png">
 <img src="/images/Facebook.week1.breakdown-02.png">
+<img src="/images/Facebook.week1.breakdown-03.png">
+<img src="/images/Facebook.week1.breakdown-04.png">
 
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
