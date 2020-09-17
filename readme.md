@@ -47,11 +47,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Margin meer naar rechts. Hoeveel sections mogen we gebruiken? Hoe krijg je een button in het midden?
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+We hebben gepraat over de code van Enes die een vraag had over zijn margin. We hebben gepraat over Aaron's site en de sections die hij gebruikt. Hoe krijg je een button in het midden?
 
 
 
