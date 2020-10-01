@@ -31,8 +31,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
+Ik vond het lastig om sommige css elementen toe te voegen en het is mij niet helemeel gelukt om JavaScript er goed in te zetten. Ik vond het ook vreemd dat mijn buttons opeens waren versprongen van midden na zijkant.
+Ik vond dat de animatie na een tijdje wel goed ging.
 
+**Screenshot(s):**
+<img src="/images/Screenshot5,1.png">
+<img src="/images/Screenshot5,2.png">
+<img src="/images/Screenshot5,3.png">
 
 
 ## Voortgang 1 (week 3)
@@ -40,10 +46,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+De structuur van de HTML en om het begin in elkaar te zetten vond ik goed gaan. Ik vond het lastig dat ik niet wist hoever ik moest gaan met mijn website en ik had een beetje moeite met de flexboxen.
 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
+<img src="/images/Screenshot3,1.png">
+<img src="/images/Screenshot3,2.png">
+<img src="/images/Screenshot3,3.png">
+
 
 ### Agenda voor meeting
 
