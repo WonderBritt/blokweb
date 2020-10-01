@@ -32,7 +32,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 2 (week 5)
 
 -dit ging goed & dit was lastig-
-Ik vond het lastig om sommige css elementen toe te voegen en het is mij niet helemeel gelukt om JavaScript er goed in te zetten. Ik vond het ook vreemd dat mijn buttons opeens waren versprongen van midden na zijkant.
+Ik vond het lastig om sommige css elementen toe te voegen en het is mij na een aantal dagen gelukt om mijn JavaScript succesvol toe te voegen (Ik miste een punt bij mijn CSS). Ik had ook veel problemen om mijn buttons in het midden van de pagina te krijgen, dit is gelukkig gelukt met behulp van 1 van mijn klasgenoten.
 Ik vond dat de animatie na een tijdje wel goed ging.
 
 **Screenshot(s):**
