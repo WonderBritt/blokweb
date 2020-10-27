@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: "arial", sans-serif;
+    font-family: "roboto", "arial", sans-serif;
 }
 
 *,
@@ -12,10 +12,51 @@
     margin: 0;
 }
 
-.logo {
-    width: 35%;
-    padding-top: 2em;
-    padding-left: .5em;
+div {
+    display: flex;
+}
+
+img {
+    width: 30px;
+}
+
+nav {
+    display: flex;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1em;
+}
+
+.big {
+    border: 10px solid gainsboro;
+}
+
+hr {
+    border: 1px solid gainsboro;
+    margin-top: 1em;
+}
+
+button {
+    border-radius: 50px;
+    padding: 5px;
+    border-color: gainsboro;
+    background-color: white;
+    border: 2px solid white;
+}
+
+.post {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.test {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .head {
@@ -27,150 +68,33 @@
     background-color: gainsboro;
 }
 
-nav {
-    display: flex;
-}
-
-img {
-    width: 30px;
-}
-
-.buttons {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 2em;
-    margin-bottom: 10px;
-}
-
-.profile {
+.berichten {
     width: 40px;
-    border-radius: 100px;
-    margin: 1em;
-    border: 1px solid white;
-}
-
-.profile:focus{
-    border: 5px solid dodgerblue;
-}
-
-textarea {
-    padding: 7px;
-    margin-top: 2em;
-    padding-left: 10px;
-    border-radius: 50px;
-    border-color: gainsboro;
-}
-
-textarea:focus{
+    margin-right: .5em;
+    margin-top: 10px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
     background-color: gainsboro;
 }
 
-div {
-    display: flex;
-}
-
-.space {
-    justify-content: space-around;
-    margin: 10px;
-}
-
-.line{
-    border: 1px solid white;
-    border-right-color: gainsboro;
-    padding-right: 60px;
-    width: 90px;
-}
-
-.mensen{
-    justify-content: space-around;
-    margin: 10px;
-}
-
-.down{
-    padding-top: 9px;
-}
-
-.border{
+.border {
     border-color: dodgerblue;
-    width: 130px;
+    width: 120px;
     padding-bottom: 10px;
+    padding-left: 10px;
     display: flex;
     align-content: center;
-}
-
-.javaBtn{
-    background-color: dodgerblue;
-    border: 2px solid black;
-}
-
-button{
-    border-radius: 50px;
-    padding: 5px;
-    border-color: gainsboro;
-    background-color: white;
-    border: 2px solid white;
-}
-
-.story {
-    width: 100px;
-    border-radius: 15px;
-    margin-left: 1.5em;
-    margin-top: 1em;
-}
-
-.post {
-    width: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.postBr{
-    width: 100%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.tweedeHead {
-    margin: 1em;
-    width: 100%;
-}
-
-.tweedeHead img {
-    margin-top: 1.7em;
-    margin-right: 2em;
-}
-
-.banner {
-    position: relative;
-}
-
-.pp {
-    position: absolute;
-    bottom: -3em;
-    right: calc(50% - 5em);
-    width: 10em;
-    border-radius: 100px;
-    border: .5em solid white;
-}
-
-h1 {
-    margin-top: 2em;
-    text-align: center;
-}
-
-.test {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    color: dodgerblue;
 }
 
 .profielBtn {
     border-radius: 10px;
-    padding: 10px 2em;
+    padding: 5px 2em;
     background-color: dodgerblue;
     color: white;
     margin-top: 20px;
-
+    display: flex;
+    align-content: center;
 }
 
 .dot {
@@ -180,14 +104,6 @@ h1 {
     display: inline-flex;
     margin-top: 20px;
 
-}
-
-ul {
-    list-style-type: none;
-    margin-top: 2em;
-    line-height: 2em;
-    margin-left: 1.5em;
-    padding-top: 10px;
 }
 
 .info {
@@ -208,56 +124,199 @@ ul {
     margin: 0 auto;
 }
 
-.postBrL{
-    width: 100%;
-    margin-top: 15px;
-    margin-bottom: 10px;
+button.javaBtn {
+    background-color: dodgerblue;
+    border: 2px solid black;
+    color: black;
 }
 
-div .animation{
+.space {
+    justify-content: space-around;
+    padding: 10px 10px 0px 10px;
+}
+
+.line {
+    height: 2em;
+}
+
+.tweedeHead {
+    margin-left: 1em;
+    margin-top: -0.25em;
+    width: 100%;
+}
+
+.tweedeHead img {
+    margin-top: 1.4em;
+    margin-right: 2em;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 2em;
+    line-height: 2em;
+    margin-left: 1.5em;
+    padding-top: 10px;
+}
+
+ul img {
+    width: 30px;
+    padding-right: 10px;
+}
+
+p {
+    font-size: 14px;
+    padding: 7px 0px 0px 10px;
+}
+
+h1 {
+    margin-top: 2em;
+    text-align: center;
+}
+
+h2 {
+    margin: 10px 7em 0px 10px;
+}
+
+.small{
+    max-width: 2em;
+}
+
+span {
+    padding-top: 5px;
+}
+
+.profile {
+    width: 40px;
+    border-radius: 100px;
+    margin: 1em 1em 0.25em 1em;
+    border: 1px solid white;
+}
+
+.story {
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 1.5em;
+    margin-top: 1em;
+}
+
+.verticaal {
+    height: 25px;
+    margin-top: 7px;
+}
+
+textarea {
+    padding: 7px;
+    margin-top: 1.60em;
+    padding-left: 10px;
+    border-radius: 50px;
+    border-color: gainsboro;
+}
+
+.banner {
+    position: relative;
+}
+
+.pp {
+    position: absolute;
+    bottom: -3em;
+    right: calc(50% - 5em);
+    width: 10em;
+    border-radius: 100px;
+    border: .5em solid white;
+}
+
+.camera {
+    position: absolute;
+    bottom: 2em;
+    right: 2em;
+    width: 3em;
+}
+
+.cameraPP {
+    position: absolute;
+    bottom: -3em;
+    right: calc(50% - 5em);
+    width: 3em;
+    border-radius: 100px;
+}
+
+.bannerradius {
+    width: 95%;
+    height: 15em;
+    border-radius: 20px 20px 0px 0px;
+    margin: 10px 10px 10px 10px;
+}
+
+.logo {
+    width: 35%;
+    padding-top: 2em;
+    padding-left: .5em;
+}
+
+.mensen {
+    justify-content: space-around;
+    padding-top: 15px;
+}
+
+.down {
+    margin-top: 9px;
+    border-radius: 100px;
+}
+
+.green {
+    margin-top: 9px;
+    height: 32px;
+    width: 32px;
+}
+
+hr.blue {
+    border: 1px solid dodgerblue;
+    margin-bottom: -1em;
+}
+
+.bigger {
+    width: 40px;
+}
+
+div .animation {
     justify-content: center;
     align-items: center;
     position: absolute;
 }
 
 
-@keyframes ruimteBtn{
-     0% {
-    transform:translateY(0);
-  }
-  50% {
-    transform:translateY(-1.5rem);
-  }
+@keyframes ruimteBtn {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-.5rem);
+    }
+
     100% {
-        transform:translateY(0);
+        transform: translateY(0);
     }
 }
 
-section.animation div{
+section.animation div {
     animation-name: ruimteBtn;
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
 
-.big{
-    border: 10px solid gainsboro;
+textarea:focus {
+    background-color: gainsboro;
 }
 
-hr{
-    border: 1px solid gainsboro;
-    margin-top: 1em;
-}
-
-button:focus{
+button:focus {
     background-color: black;
     color: white;
+    outline: none;
 }
 
-button:hover{
-    background-color: crimson;
-    color: white;
-}
-
-textarea:hover{
-    background-color: dodgerblue;
+:focus {
+    outline: none;
+    padding-top: 1em;
+    border: 2px solid black;
 }

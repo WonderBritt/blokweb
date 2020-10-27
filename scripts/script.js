@@ -2,9 +2,9 @@
 var ruimteBtn = document.querySelector("#java");
 
 
-function button (){
+function button() {
     ruimteBtn.classList.toggle('javaBtn');
-    console.log("help");
+    console.log("test");
 }
 
 

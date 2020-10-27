@@ -16,17 +16,29 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
+Ik vond het lastig om de website in detail meer op het orginele te laten lijken. Ik heb geprobeerd om met css zo dicht mogelijk bij het orgineel te komen, maar ik weet niet helemaal zeker of dit is gelukt. 
+
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+<img src="/images/Screenshot7,1.png">
+<img src="/images/Screenshot7,2.png">
+<img src="/images/Screenshot7,3.png">
+<img src="/images/Screenshot7,4.png">
 
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
+Ik vond het lastig om sommige buttons goed op te maken. De tekst wilde niet doen wat ik wilde dat het deed. Voor de rest had ik moeite met mijn hr die verticaal moest staan. Ik vond het moeilijk om hem de juiste hoogte te geven. 
+Ik vond dat de toegangkelijkheid goed ging, ondanks dta hij nog niet helemaal perfect is. De boxen zijn niet overal de juiste grootte.
 
+**Screenshot(s):**
+
+<img src="/images/Screenshot6,1.png">
+<img src="/images/Screenshot6,2.png">
+<img src="/images/Screenshot6,3.png">
+<img src="/images/Screenshot6,4.png">
 
 
 ## Voortgang 2 (week 5)
