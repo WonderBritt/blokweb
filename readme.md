@@ -16,7 +16,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Eindgesprek (week 7/8)
 
 -dit ging goed & dit was lastig-
-Ik vond het lastig om de website in detail meer op het orginele te laten lijken. Ik heb geprobeerd om met css zo dicht mogelijk bij het orgineel te komen, maar ik weet niet helemaal zeker of dit is gelukt. 
+Ik vond het lastig om de website in detail meer op het orginele te laten lijken. Verder had ik moeite met een overflow die op één van mijn pagina's heb. Ik heb geprobeerd om met css zo dicht mogelijk bij het orgineel te komen, maar ik weet niet helemaal zeker of dit is gelukt. 
 
 
 **Screenshot(s):**
